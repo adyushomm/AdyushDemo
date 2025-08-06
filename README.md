@@ -1,12 +1,12 @@
 # AdyushDemo
 First repo in github
 <br>
-SYBAU TWIN
-Lets add instruction set to use GitHub here<br>
+SYBAU TWIN<br><br>
+Lets add instruction set to use GitHub here<br><br>
 
-git clone <link goes here> - To clone a repo from github toyour local laptop<br><br>
+git clone {link goes here} - To clone a repo from github toyour local laptop<br><br>
 
-cd <folder-name> To change directory <br><br>
+cd {folder-name} To change directory <br><br>
 
 ls - To see all files inside a folder       *for hidden files type ls -Force<br><br>
 
